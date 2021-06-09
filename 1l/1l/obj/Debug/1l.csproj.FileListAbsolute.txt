@@ -1,0 +1,10 @@
+C:\Users\onlyw\source\repos\1l\1l\bin\Debug\1l.exe.config
+C:\Users\onlyw\source\repos\1l\1l\bin\Debug\1l.exe
+C:\Users\onlyw\source\repos\1l\1l\bin\Debug\1l.pdb
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\1l.csprojAssemblyReference.cache
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\_1l.Properties.Resources.resources
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\1l.csproj.GenerateResource.cache
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\1l.csproj.CoreCompileInputs.cache
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\1l.exe
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\1l.pdb
+C:\Users\onlyw\source\repos\1l\1l\obj\Debug\_1l.Form1.resources
